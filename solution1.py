@@ -37,5 +37,3 @@ def prime_string(upto):
 
 def solution(i):
     return prime_string(i+5)[i:i+5]
-
-print(prime_string(100))
